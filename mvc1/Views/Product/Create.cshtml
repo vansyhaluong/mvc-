@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model mvc1.Models.Product
+<h2>Thêm mới sản phẩm</h2>
+<form method="post" action="/Product/Create">
+    <div class="mb-3">
+        <label for="name" class="form-label">Tên sản phẩm</label>
+        <input type="text" class="form-control" asp-for="Name" required>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="price" class="form-label">Giá sản phẩm</label>
+        <input type="number"  class="form-control" asp-for="Price" required>
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+    </form>

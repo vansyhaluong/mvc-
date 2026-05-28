@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model mvc2.Models.Employee
+<h2>Sửa nhân viên</h2>
+<form method="post">
+    <div >
+        <label>ID</label>
+        <input type="text" asp-for="Id" class="form-control" readonly/>
+    </div>
+    <div>
+        <label>Name</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input type="text" asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <button class="btn btn-primary" type="submit">Save</button>
+</form>

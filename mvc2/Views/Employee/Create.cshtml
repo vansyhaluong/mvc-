@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model mvc2.Models.Employee
+<h2>Thêm nhân viên</h2>
+<form method="post">
+    <div class="py-3">
+        <label>ID</label>
+        <input type="text" asp-for="Id" class="form-control"/>
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Name</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input type="text" asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button class="btn btn-primary" type="submit">Save</button>
+</form>
