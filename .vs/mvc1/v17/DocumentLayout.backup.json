@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE397CCE-649D-4DD4-8698-B0B52D49AA7A}|mvc2\\mvc2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE397CCE-649D-4DD4-8698-B0B52D49AA7A}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc3\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F648404C-D2F9-4B9C-940C-F88713CA1A80}|mvc3\\mvc3.csproj|solutionrelative:mvc3\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE397CCE-649D-4DD4-8698-B0B52D49AA7A}|mvc2\\mvc2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\mvc1\\mvc2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE397CCE-649D-4DD4-8698-B0B52D49AA7A}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +78,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Program.cs",
+              "RelativeDocumentMoniker": "mvc2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Program.cs",
+              "RelativeToolTip": "mvc2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:55:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "mvc3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "mvc3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:45:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvc3\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "mvc3\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T06:44:07.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc3\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "mvc3\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T06:38:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc3\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "mvc3\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T06:31:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Models\\StudentService.cs",
+              "RelativeDocumentMoniker": "mvc3\\Models\\StudentService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Models\\StudentService.cs",
+              "RelativeToolTip": "mvc3\\Models\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:28:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvc3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Models\\Student.cs",
+              "RelativeToolTip": "mvc3\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:28:11.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Program.cs",
+              "RelativeDocumentMoniker": "mvc3\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc3\\Program.cs",
+              "RelativeToolTip": "mvc3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:27:52.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mvc2\\Controllers\\HomeController.cs",
@@ -58,12 +194,11 @@
               "RelativeToolTip": "mvc2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T02:16:49.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T02:16:49.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "mvc2\\Views\\Employee\\Edit.cshtml",
@@ -71,12 +206,11 @@
               "RelativeToolTip": "mvc2\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T02:01:08.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T02:01:08.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc1\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "mvc1\\Views\\Product\\Create.cshtml",
@@ -84,12 +218,11 @@
               "RelativeToolTip": "mvc1\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T01:52:39.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:52:39.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc1\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "mvc1\\Controllers\\ProductController.cs",
@@ -97,12 +230,11 @@
               "RelativeToolTip": "mvc1\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:52:14.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:52:14.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "mvc2\\Views\\Employee\\Create.cshtml",
@@ -110,12 +242,11 @@
               "RelativeToolTip": "mvc2\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T01:31:52.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:31:52.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "mvc2\\Controllers\\EmployeeController.cs",
@@ -128,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "mvc2\\Views\\Employee\\Index.cshtml",
@@ -136,12 +267,11 @@
               "RelativeToolTip": "mvc2\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T15:16:26.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:16:26.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Models\\EmployeeService.cs",
               "RelativeDocumentMoniker": "mvc2\\Models\\EmployeeService.cs",
@@ -149,12 +279,11 @@
               "RelativeToolTip": "mvc2\\Models\\EmployeeService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAASwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T15:09:25.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:09:25.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.NET\\mvc1\\mvc2\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "mvc2\\Models\\Employee.cs",
@@ -162,8 +291,7 @@
               "RelativeToolTip": "mvc2\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T15:08:23.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:08:23.132Z"
             }
           ]
         }
